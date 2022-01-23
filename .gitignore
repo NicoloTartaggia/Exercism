@@ -1,5 +1,5 @@
 #######################
-MAC
+# MAC
 #######################
 
 # General
@@ -7,8 +7,7 @@ MAC
 .AppleDouble
 .LSOverride
 
-# Icon must end with two \r
-Icon
+# Icon must end with two Icon
 
 # Thumbnails
 ._*
@@ -30,7 +29,7 @@ Temporary Items
 .apdisk
 
 #######################
-VS CODE
+# VS CODE
 #######################
 .vscode/*
 !.vscode/settings.json
@@ -46,7 +45,7 @@ VS CODE
 *.vsix
 
 ######################
-scala
+# scala
 ######################
 /lib/*.jar
 /test/files/codelib/*.jar
@@ -94,7 +93,7 @@ project/**/metals.sbt
 .bsp
 
 ######################
-intellij
+# intellij
 ######################
 /src/intellij*/*.iml
 /src/intellij*/*.ipr
